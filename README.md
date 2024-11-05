@@ -25,3 +25,10 @@ This project to predict media campaign cost
 
 
 ![photo](https://github.com/barirahzainalabidin/Regression-with-a-Tabular-Media-Campaign-Cost/blob/main/img/Screenshot%202024-11-06%2007.12.06.png)
+
+
+
+# c. Predict media campaign cost 
+
+
+- The model generally predicts media campaign costs accurately but can be off, especially for higher costs
