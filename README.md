@@ -15,7 +15,7 @@ This project to predict media campaign cost
 
 
 
-# b. My visualization result and metric roc is 0.30
+# b. My visualization result and metric rmsle is 0.30
 
 
 ![photo](https://github.com/barirahzainalabidin/Regression-with-a-Tabular-Media-Campaign-Cost/blob/main/img/Screenshot%202024-11-06%2007.16.20.png)
@@ -32,3 +32,5 @@ This project to predict media campaign cost
 
 
 - The model generally predicts media campaign costs accurately but can be off, especially for higher costs
+
+- From metric rmsle, the difference between the predicted and actual costs is 0.30 . This indicates how close the model's predictions are to the actual values on a logarithmic scale . 
